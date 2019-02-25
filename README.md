@@ -21,13 +21,13 @@ I want to be able to see them printed out to the console.
  ```
  bundle install
  ```
- ### To run tests and coverage:
+ ### To run tests and coverage(rspec/simplecov):
  
  ```
  rspec
  ```
  
- ### To run linting:
+ ### To run linter(rubocop):
  
  ```
  rubocop
