@@ -1,4 +1,4 @@
-# views-counter-ruby
+# Views-Counter-Ruby
 A simple program that parses data from a log file, counts the views per page and shows them in the console.
 
 ### User Stories:
@@ -14,7 +14,7 @@ I want to be able to see them printed out to the console.
 
 ## How to use
 
- ### To set up the project
+ ### To set up the project:
 
  Clone this repository and then run:
 
