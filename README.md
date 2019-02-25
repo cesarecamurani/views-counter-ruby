@@ -21,7 +21,7 @@ I want to be able to see them printed out to the console.
  ```
  bundle install
  ```
- ### To run tests:
+ ### To run tests and coverage:
  
  ```
  rspec
